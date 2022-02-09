@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my account! 👋
+
+Hello, my name is Adrián, I'm from Spain and I'm studying Computer Science at UHU (University of Huelva)
 
 <!--
 **visumania/visumania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
